@@ -1,0 +1,45 @@
+{
+  "name": "errorrerum",
+  "version": "1.0.0",
+  "description": "Redis client mock object for unit testing",
+  "author": "KeithKozey",
+  "main": "./lib/index",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoahGreenholt/errorrerum.git"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "mocha": "6.2.3",
+    "redis": "^3.0.2",
+    "rsmq": "^0.12.2",
+    "should": "13.2.3"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "redis",
+    "redis-mock",
+    "mock-redis",
+    "redis test",
+    "redis mock",
+    "redis testing",
+    "eum",
+    "dicta",
+    "redis js",
+    "est",
+    "redis standalone",
+    "redis inmemory",
+    "quidem",
+    "esse"
+  ],
+  "bugs": {
+    "url": "https://github.com/NoahGreenholt/errorrerum.git/issues"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://github.com/NoahGreenholt/errorrerum.git"
+}
